@@ -110,6 +110,6 @@ ai-gesture-controller/
 
 ## Author
 
-**AREKG0** — 2nd year Computer Science student  
+**RAVIRAJ GADHVI** — 2nd year Computer Science student  
 Building AI and MLOps projects from scratch.  
 [GitHub](https://github.com/AREKG0)
